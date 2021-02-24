@@ -195,3 +195,4 @@ We can now rank our evaluation of all the models to choose the best one for our 
 
 **Results**
 
+![titanics](https://github.com/ShrishtiHore/Kaggle-_Titanic_Survival_Competition/blob/master/titanic_result.PNG)
