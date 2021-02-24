@@ -1,11 +1,14 @@
 # Kaggle Titanic Survival Competition
 
-### Code and Resources
+This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
+The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-Language: Python 3.8
-Modules and Libraries: numpy, pandas, matplotlib, os, Tensorflow, time, date
-Keywords: data analysis, plots, graphs, data cleaning, data science, kaggle
-Dataset:  Cornell Movie-Dialogs Corpus 
+### Code and Resource
+
+**Language:** Python 3.8
+**Modules and Libraries:** numpy, pandas, matplotlib, os, Tensorflow,Scikit learn
+**Dataset:**  ![Titanic Dataset](https://www.kaggle.com/c/titanic)
+**Keywords:** data analysis, plots, graphs, data cleaning, data science, kaggle, machine learning
 
 Usually a Data Science Problem is solved by these 7 stages :
 
